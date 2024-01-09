@@ -27,8 +27,6 @@ The script captures video from the webcam, detects facial landmarks using Mediap
 - [Mediapipe](https://github.com/google/mediapipe)
 - [PyAutoGUI](https://github.com/asweigart/pyautogui)
 
-## License
-This project is licensed under the [MIT License](LICENSE).
 
 ## Acknowledgments
 - The project uses OpenCV, Mediapipe, and PyAutoGUI libraries.

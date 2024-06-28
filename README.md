@@ -31,6 +31,3 @@ The script captures video from the webcam, detects facial landmarks using Mediap
 ## Acknowledgments
 - The project uses OpenCV, Mediapipe, and PyAutoGUI libraries.
 - Inspired by the idea of gaze-based mouse control.
-
-Feel free to customize this README according to your project's specifics and any additional information you'd like to provide.
-
